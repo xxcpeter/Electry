@@ -1,0 +1,22 @@
+{
+  "name": "electry",
+  "version": "1.0.0",
+  "description": "A Electron Demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxcpeter/Electry.git"
+  },
+  "author": "xxcpeter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxcpeter/Electry/issues"
+  },
+  "homepage": "https://github.com/xxcpeter/Electry#readme",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
+}
